@@ -1,2 +1,3 @@
 # Comic-Translator-Ongoing-
-The Manga Translator is a tool that automates the translation of manga text from its original language into the reader's desired language. Using advanced OCR, inpainting, and machine translation, it detects and removes original text, translates it, and re-embeds the translated text back into the manga panel, preserving the artwork’s quality.
+This is an Ongoing Project.
+The Manga Translator is an advanced tool designed to bridge the language gap for manga and comic enthusiasts worldwide. By leveraging state-of-the-art Optical Character Recognition (OCR), image inpainting, and machine translation technologies, this tool automates the process of translating manga text from its original language into a desired language, while preserving the visual integrity of the artwork.
